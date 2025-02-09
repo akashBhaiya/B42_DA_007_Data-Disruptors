@@ -1,7 +1,7 @@
 ## Project code : B42_DA_007_Data Disruptors ##
 # 🌍 Dynamic Airbnb Dashboard Project
 
-![Airbnb Dashboard](https://i.ibb.co/HfkMFPKs/Screenshot-2025-02-09-144933.png)
+<img src="image/Screenshot 2025-02-09 144933.png" alt="Ev Animation" width='200'>
 
 ## 🚀 Overview
 The **Dynamic Airbnb Dashboard Project** provides a comprehensive solution for analyzing Airbnb pricing trends across European cities. The project involves data preprocessing, SQL database integration, and dynamic Power BI visualizations that update in real-time to ensure accurate insights.
@@ -47,7 +47,7 @@ cd airbnb-dashboard
 5. Load `Airbnb Price Analysis Dashboard.pbix` to visualize insights.
 
 ## 📊 Example Dashboard Screenshot
-![Example Dashboard](https://yourimageurl.com/dashboard_screenshot.png)
+<img src="image/Screenshot 2025-02-09 144933.png" alt="Ev Animation" width='200'>
 
 ## 📈 Future Enhancements
 🚀 **AI-Based Price Prediction**: Use machine learning models to predict Airbnb prices.  
@@ -62,11 +62,25 @@ Contributions are welcome! If you'd like to enhance the project, follow these st
 3. Commit your changes 📝
 4. Submit a pull request 🔄
 
+
+## ✉️ Feedback
+We'd love to hear from you! Use the contact form in the app to share your thoughts or suggestions.
+
+---
+
 ## 👨‍💻 Author
 - Akash Vishwakarma
 - Aditya
 - Shivangi Rai
 
 ---
+
+## 🤝 Acknowledgments
+This project is made possible with:
+- **Datasets**: Publicly available Airbnb Prices in European Cities.
+- **Visualization Libraries**: Power Bi and more.
+
+---
+
 ⭐ *Star this repository if you found it useful!* ⭐
 
