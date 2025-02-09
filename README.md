@@ -7,27 +7,34 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 40px;
+            margin: 0;
+            padding: 0;
             background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
         }
         .container {
+            width: 90%;
             max-width: 900px;
-            margin: auto;
             padding: 20px;
             background: white;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
             border-radius: 8px;
         }
         h1, h2 {
             color: #333;
+            text-align: center;
         }
-        ul {
+        ul, ol {
             margin-left: 20px;
         }
         code {
             background-color: #e8e8e8;
             padding: 2px 5px;
             border-radius: 4px;
+            font-family: "Courier New", Courier, monospace;
         }
     </style>
 </head>
