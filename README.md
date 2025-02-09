@@ -46,13 +46,17 @@ The **Dynamic Airbnb Dashboard Project** provides a comprehensive solution for a
 - 🗄️ **SQL (MySQL)**: Efficient database management and querying.
 - 📊 **Power BI**: Advanced data visualization and reporting.
 
-## 📥 Installation & Usage
-```bash
-# Clone the repository
-git clone https://github.com/akashBhaiya/B42_DA_007_Data-Disruptors
-cd B42_DA_007_Data-Disruptors
+---
 
-```
+### **Steps to Run**
+1. Clone the repository:
+    ```bash
+    git clone 'https://github.com/akashBhaiya/B42_DA_007_Data-Disruptors'
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd B42_DA_007_Data-Disruptors
+    ```
 1. Ensure `Python`, `MySQL`, and `Power BI` are installed.
 2. Run `combine_europe_data.ipynb` to merge raw data.
 3. Execute `EDA_europe_data.ipynb` to clean data and populate SQL.
