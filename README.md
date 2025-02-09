@@ -39,8 +39,6 @@ The **Dynamic Airbnb Dashboard Project** provides a comprehensive solution for a
 git clone https://github.com/yourrepo/airbnb-dashboard.git
 cd airbnb-dashboard
 
-# Install dependencies
-pip install -r requirements.txt
 ```
 1. Ensure `Python`, `MySQL`, and `Power BI` are installed.
 2. Run `combine_europe_data.ipynb` to merge raw data.
@@ -65,9 +63,9 @@ Contributions are welcome! If you'd like to enhance the project, follow these st
 4. Submit a pull request 🔄
 
 ## 👨‍💻 Author
-**[Akash Vishwakarma]**
-**[Aditya]**
-**[Shivangi Rai]**
+- Akash Vishwakarma
+- Aditya
+- Shivangi Rai
 
 ---
 ⭐ *Star this repository if you found it useful!* ⭐
