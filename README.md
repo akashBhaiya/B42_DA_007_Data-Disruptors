@@ -36,8 +36,8 @@ The **Dynamic Airbnb Dashboard Project** provides a comprehensive solution for a
 ## 📥 Installation & Usage
 ```bash
 # Clone the repository
-git clone https://github.com/yourrepo/airbnb-dashboard.git
-cd airbnb-dashboard
+git clone https://github.com/akashBhaiya/B42_DA_007_Data-Disruptors
+cd B42_DA_007_Data-Disruptors
 
 ```
 1. Ensure `Python`, `MySQL`, and `Power BI` are installed.
