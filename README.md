@@ -89,9 +89,9 @@ We'd love to hear from you!
 ---
 
 ## 👨‍💻 Author
-- >[Akash Vishwakarma](https://github.com/akashBhaiya)
-- Aditya
-- Shivangi Rai
+- [Akash Vishwakarma](https://github.com/akashBhaiya)
+- [Aditya](https://github.com/Aditya0305030)
+- [Shivangi Rai](https://github.com/shivangirai0922)
 
 ---
 
