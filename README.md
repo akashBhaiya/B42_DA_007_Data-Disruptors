@@ -64,7 +64,7 @@ Contributions are welcome! If you'd like to enhance the project, follow these st
 
 
 ## ✉️ Feedback
-We'd love to hear from you! Use the contact form in the app to share your thoughts or suggestions.
+We'd love to hear from you!
 
 ---
 
