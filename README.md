@@ -8,7 +8,7 @@ The **Dynamic Airbnb Dashboard Project** provides a comprehensive solution for a
 
 ---
 
-### 🎥 Quick Video Preview
+## 🎥 Quick Video Preview
 >[Click here to watch a video demo](https://drive.google.com/file/d/1wl8R8o-RUA8xVc_Oh2YAEWMiDZk6KWhJ/view?usp=drive_link)
 
 ---
@@ -48,7 +48,7 @@ The **Dynamic Airbnb Dashboard Project** provides a comprehensive solution for a
 
 ---
 
-### 📥**Steps to Run**
+## 📥**Steps to Run**
 1. Clone the repository:
     ```bash
     git clone 'https://github.com/akashBhaiya/B42_DA_007_Data-Disruptors'
