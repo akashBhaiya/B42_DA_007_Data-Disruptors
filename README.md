@@ -85,3 +85,13 @@
 </body>
 </html>
 
+# Dynamic Dashboard Project
+
+## Objective
+The objective of this project is to process a dataset, load it into an SQL database, and create a dynamic Power BI dashboard that reflects real-time updates from the database. This ensures actionable insights that adapt dynamically to changes in the underlying data.
+
+## Project Workflow
+1. **Initial Setup:** Install required tools (Python, SQL, Power BI).
+2. **Data Preprocessing:** Multiple raw CSV files are combined into a single file for analysis. The script is available in `combine_europe_data.ipynb`.
+3. **Data Cleaning:** Cleaning is 
+
