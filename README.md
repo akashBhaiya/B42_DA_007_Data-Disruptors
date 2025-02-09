@@ -1,7 +1,7 @@
 ## Project code : B42_DA_007_Data Disruptors ##
 # 🌍 Dynamic Airbnb Dashboard Project
 
-<img src="image/Screenshot 2025-02-09 144933.png" alt="Ev Animation" width='200'>
+<img src="Image/Dashboard pic.png" alt="Ev Animation" width='700'>
 
 ## 🚀 Overview
 The **Dynamic Airbnb Dashboard Project** provides a comprehensive solution for analyzing Airbnb pricing trends across European cities. The project involves data preprocessing, SQL database integration, and dynamic Power BI visualizations that update in real-time to ensure accurate insights.
@@ -47,7 +47,7 @@ cd airbnb-dashboard
 5. Load `Airbnb Price Analysis Dashboard.pbix` to visualize insights.
 
 ## 📊 Example Dashboard Screenshot
-<img src="image/Screenshot 2025-02-09 144933.png" alt="Ev Animation" width='200'>
+<img src="Image/Dashboard pic.png" alt="Dasboard" width='600'>
 
 ## 📈 Future Enhancements
 🚀 **AI-Based Price Prediction**: Use machine learning models to predict Airbnb prices.  
